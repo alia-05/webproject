@@ -1,2 +1,2 @@
-# webproject
-web project description 
+my first portifolio project
+my simple portifolio
